@@ -1,0 +1,200 @@
+header{ 
+	text-align: center;
+	padding: 0;
+	margin: 0;
+
+}
+
+
+#squares{
+	display: inline-block;
+}
+
+
+.containertwo{ 
+	width: 60px;
+	height: 60px;
+	background-color: black;
+	padding: 10px;
+	display: inline-block;
+
+
+}
+.containerthree{
+	width: 60px;
+	height: 60px;
+	background-color: black;
+	padding: 10px;
+	display: inline-block;
+
+
+}
+.containerfour{
+	width: 60px;
+	height: 60px;
+	background-color: yellow;
+	padding: 10px;
+	display: inline-block;
+}
+
+#clicktheimage{
+	margin-top: 20px;
+	text-align: center;
+	margin-right: 10px;
+}
+
+/*beauty image*/
+img{
+	width: 500px;
+	height: 423px;
+	position: relative;
+	left: 10px;
+
+}
+
+#beyonce{
+	margin-top: 20px;
+	text-align: center;
+	margin-right: 10px;
+
+}
+
+ #beyonceimage img{
+	width: 500px;
+	height: 423px;
+	position: relative;
+	left: 10px;
+}
+
+#block{
+	background-color: #bca;
+    width: 100px;
+    border: 1px solid purple;
+    border-radius: 10px;
+}
+
+
+#block1, #block2 {
+    background-color: #bca;
+    width: 200px;
+    height: 1.1em;
+    text-align: center;
+    border: 2px solid purple;
+    margin: 3px;
+    font-size: 14px;
+}
+
+#go1, #go2, #go3, #go4,  {
+    font-size: 14px;
+  }
+
+
+#beyonce{
+	margin-bottom: 20px;
+}
+
+ #chinenyemtheone{
+ 	margin-top: 20px;
+ 	margin-bottom: 20px;
+ } 
+
+#i_am_so_tired .first, #i_am_so_tired .second  {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    float: left;
+  }
+  .first {
+    background-color: #3f3;
+    left: 0;
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    float: left;
+  }
+  .second {
+    background-color: #33f;
+    left: 80px;
+    position: absolute;
+    width: 900px;
+    height: 900px;
+    float: left;
+  }
+
+
+#shitface{
+
+	display: block;
+	margin-top: 20%;
+}
+
+#shitface p {
+    margin: 0;
+    color: blue;
+    font-size: 2em;
+    font-family: courier;
+  }
+
+  #shitface div, #shitface p {
+    margin-left: 10px;
+    
+  }
+
+  #shitface div{
+	height: 55px;
+  }
+
+form{
+	height: 55px;
+
+}
+
+  span {
+    color: red;
+    font-size: 2em;
+    font-family: courier;
+  }
+
+
+.image-container{
+	position: relative;
+	width: 900px;
+	height: 900px;
+}
+
+.image-container img{
+	position:absolute;
+	width: 500;
+	height: 500;
+	top:0;
+	left:0;
+}
+
+.hideandshowtext{
+	
+	display: block;
+}
+
+.hideandshowtext p{
+	color: black;
+}
+
+footer {
+	text-align: center;
+	font-size: 2em;
+	font-family: courier;
+	
+}
+
+footer a {
+	color: #ff7ffe;
+	text-decoration: none;
+}
+
+
+.
+
+
+
+
+
